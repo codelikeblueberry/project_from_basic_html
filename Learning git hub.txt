@@ -14,3 +14,5 @@ GitHub offers numerous advantages that make it a popular and powerful platform f
 1. Version Control: GitHub is built on top of Git, which provides robust and efficient version control. It allows developers to track changes, manage different versions of their code, and easily revert to previous states if needed.
 
 2. Collaboration: GitHub provides a platform for teams to collaborate on projects regardless of their physical locations. Multiple developers can work on the same project simultaneously, each on their own branches, and then merge their changes together
+
+3.Issue Tracking: GitHub offers a built-in issue tracking system that allows teams to create, manage, and prioritize tasks, bugs, and feature requests. This helps in keeping track of project progress and addressing issues efficiently.
