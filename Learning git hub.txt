@@ -5,3 +5,12 @@ HERE I AM LEARNING WITH TELUSKO THAT HOW
 3. AND WHY SHOULD WE TAKE THE PLAN
 
 keep going 😁
+
+WRITE THE ADVANTAGES OF GITHUB
+
+
+GitHub offers numerous advantages that make it a popular and powerful platform for version control, collaboration, and software development. Here are some of the key advantages of using GitHub:
+
+1. Version Control: GitHub is built on top of Git, which provides robust and efficient version control. It allows developers to track changes, manage different versions of their code, and easily revert to previous states if needed.
+
+2. Collaboration: GitHub provides a platform for teams to collaborate on projects regardless of their physical locations. Multiple developers can work on the same project simultaneously, each on their own branches, and then merge their changes together
